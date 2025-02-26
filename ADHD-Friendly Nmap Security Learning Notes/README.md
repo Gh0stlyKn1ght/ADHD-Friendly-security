@@ -23,6 +23,8 @@ Check out more projects on GitHub: [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1
 # NMAP Simulation Security Real-World Example Pentesting
 -[🔍Real-World Penetration Testing Scenario.md](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/Nmap%20Simulation%20Security%20Real-World%20Example/%F0%9F%94%8DReal-World%20Penetration%20Testing%20Scenario.md)
 -[🔍Detailed Exploitation Scenario.md](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/Nmap%20Simulation%20Security%20Real-World%20Example/%F0%9F%94%8DDetailed%20Exploitation%20Scenario.md)
+-[🔥 Post-Exploitation Attack Simulation: Taking Over a Compromised Web Server](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/Nmap%20Simulation%20Security%20Real-World%20Example/%F0%9F%94%A5%20Post-Exploitation%20Attack%20Simulation:%20Taking%20Over%20a%20Compromised%20Web%20Server.md)
+-[🔥 Post-Exploitation Attack Simulation: Taking Over a Compromised Web Server](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/Nmap%20Simulation%20Security%20Real-World%20Example/%F0%9F%94%A5%20Post-Exploitation%20Attack%20Simulation%3A%20Taking%20Over%20a%20Compromised%20Web%20Server.md)
 
 *Generated with ❤️ by ChatGPT & [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1ght)*
 

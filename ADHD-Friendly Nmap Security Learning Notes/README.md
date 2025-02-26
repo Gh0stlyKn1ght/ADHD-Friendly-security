@@ -18,9 +18,11 @@ Check out more projects on GitHub: [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1
 - [8. Finding the Target's DNS Server Version](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/8.%20Finding%20the%20Target's%20DNS%20Server%20Version.md)
 - [9. Optimizing Nmap Performance 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/9.%20Optimizing%20Nmap%20Performance%20%F0%9F%9A%80.md)
 - [10. Nmap Scripting Engine (NSE) 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/10.%20Nmap%20Scripting%20Engine%20(NSE)%20%F0%9F%9A%80.md)
-- [11. Enumeration The Most Critical Phase in Security Testing 🔍](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Service%20Enumeration%20with%20Nmap%F0%9F%9A%80.md)
+- [11. Enumeration The Most Critical Phase in Security Testing 🔍](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/11.%20Enumeration%20The%20Most%20Critical%20Phase%20in%20Security%20Testing%20%F0%9F%94%8D.md)
 
-
+# NMAP Simulation Security Real-World Example Pentesting
+-[🔍Real-World Penetration Testing Scenario.md](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/Nmap%20Simulation%20Security%20Real-World%20Example/%F0%9F%94%8DReal-World%20Penetration%20Testing%20Scenario.md)
+-[🔍Detailed Exploitation Scenario.md](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/Nmap%20Simulation%20Security%20Real-World%20Example/%F0%9F%94%8DDetailed%20Exploitation%20Scenario.md)
 
 *Generated with ❤️ by ChatGPT & [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1ght)*
 

@@ -1,1 +1,28 @@
 
+# Markdown content with ADHD-friendly table of contents and credits
+
+adhd_friendly_markdown = """
+# ADHD-Friendly Complete Nmap Guide
+
+### Credits
+This guide was compiled with insights from **Gh0stlyKn1ght**.  
+Check out more projects on GitHub: [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1ght)
+
+---
+
+## 🚀 ADHD-Friendly Table of Contents
+
+- [[🔍 Enumeration & Security Testing]](#enumeration--security-testing)
+- [[🔍 Introduction to Nmap]](#introduction-to-nmap)
+- [[🔍 Discovery with Nmap]](#discovery-with-nmap)
+- [[🔍 Saving Nmap Scan Results 🚀]](#saving-nmap-scan-results)
+- [[🔍 Enumeration: The Most Critical Phase in Security Testing]](#enumeration-the-most-critical-phase-in-security-testing)
+- [[🔍 Finding the Target's DNS Server Version]](#finding-the-targets-dns-server-version)
+- [[🔍 Identifying the Version of Running Services]](#identifying-the-version-of-running-services)
+- [[🔍 Identifying the Operating System of the Target Machine]](#identifying-the-operating-system-of-the-target-machine)
+- [[🔍 Nmap Scripting Engine (NSE) 🚀]](#nmap-scripting-engine-nse)
+- [[🔍 Optimizing Nmap Performance 🚀]](#optimizing-nmap-performance)
+- [[🔍 Service Enumeration with Nmap 🚀]](#service-enumeration-with-nmap)
+
+---
+

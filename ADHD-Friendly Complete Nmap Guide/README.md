@@ -8,106 +8,19 @@ This guide was compiled with insights from **Gh0stlyKn1ght**.
 Check out more projects on GitHub: [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1ght)
 
  
-[[1. Introduction to Nmap]]
-[[2. Understanding an Nmap Scan]]
-[[3. Saving Nmap Scan Results 🚀]]
-[[4. Discovery with Nmap]]
-[[5. Identifying the Operating System of the Target Machine]]
-[[6. Identifying the Version of Running Services]]
-[[7. Service Enumeration with Nmap🚀]]
-[[8. Finding the Target's DNS Server Version]]
-[[9. Optimizing Nmap Performance 🚀]]
-[[10. Nmap Scripting Engine (NSE) 🚀]]
 
+- [1. Introduction to Nmap](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Enumeration%20%26%20Security%20Testing%20(ADHD-Friendly%20TOC).md)
+- [2. Understanding an Nmap Scan](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Introduction%20to%20Nmap.md)
+- [3. Saving Nmap Scan Results 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Discovery%20with%20Nmap.md)
+- [4. Discovery with Nmap](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8DSaving%20Nmap%20Scan%20Results%20%F0%9F%9A%80.md)
+- [5. Identifying the Operating System of the Target Machine](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Enumeration%20The%20Most%20Critical%20Phase%20in%20Security%20Testing%F0%9F%94%8D.md)
+- [6. Identifying the Version of Running Services](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Finding%20the%20Target's%20DNS%20Server%20Version.md)
+- [7. Service Enumeration with Nmap🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Identifying%20the%20Version%20of%20Running%20Services.md)
+- [8. Finding the Target's DNS Server Version](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/82556b877a58a20a84cb84f113d5efa11c986ac7/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Identifying%20the%20Operating%20System%20of%20the%20Target%20Machine.md)
+- [9. Optimizing Nmap Performance 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Nmap%20Scripting%20Engine%20(NSE)%20%F0%9F%9A%80.md)
+- [10. Nmap Scripting Engine (NSE) 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Optimizing%20Nmap%20Performance%20%F0%9F%9A%80.md)
+- [11. Enumeration The Most Critical Phase in Security Testing 🔍](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Service%20Enumeration%20with%20Nmap%F0%9F%9A%80.md)
 
-
-*Enumeration: The Most Critical Phase in Security Testing** 🔍
-
-
-
-Enumeration is **not** about gaining access to the target computer. Instead, it's about:  
-✅ Finding **all possible ways** to attack the target.  
-✅ Gathering as much **detailed information** as possible.  
-✅ Understanding **how services work** and their syntax.
-
-## **Why Enumeration Matters**
-
-🚀 **Tools alone won't help** if you don’t understand the data they provide.  
-🧠 **Knowledge & attention to detail** are key.  
-⚙️ Actively **interact with services** to understand what they reveal.
-
----
-
-## **How to Approach Enumeration**
-
-1️⃣ **Learn the technology & protocols** – Know how they work.  
-2️⃣ **Analyze the data carefully** – Small details can be important.  
-3️⃣ **Adapt and refine your approach** – Use what you learn.
-
-🔹 More information = More attack vectors  
-🔹 Misconfigurations and poor security habits are **goldmines** for attackers.
-
----
-
-## **Example: Searching for Missing Keys 🗝️**
-
-Imagine you lost your car keys.
-
-- If someone tells you **"They’re in the living room,"** it’s vague and unhelpful.
-- If they say **"On the white shelf, next to the TV, in the third drawer,"** you’ll find them faster!
-
-📌 **The more specific information you gather, the easier it is to find a way in.**
-
----
-
-## **How to Find Attack Vectors?**
-
-🔎 Look for:
-
-- Functions/resources that **interact** with the target.
-- Information that **leads to more valuable information** for access.
-
-🛠 **Most vulnerabilities come from:**
-
-- **Misconfigurations** (lack of knowledge or bad security mindset).
-- **Over-reliance on firewalls, GPOs, and updates** without deeper security measures.
-
----
-
-## **Why Do People Get Stuck?**
-
-🚨 **Common Mistakes:**
-
-- Thinking they haven't used the **right tool** ❌
-- Not knowing **how to interact** with a service 🤷
-- Skipping the **learning phase** before attacking ⚠️
-
-💡 **Solution:** Spend a few hours understanding how the service works. It can save you **hours or even days** in the long run!
-
----
-
-## **Manual Enumeration vs. Automated Scanners**
-
-✅ **Manual Enumeration is crucial!**
-
-- Scanners **speed up** the process but don’t always bypass security.
-- **Timeout Issues:** If a port doesn’t respond fast enough, scanning tools may incorrectly mark it as **closed**, leading to missed opportunities.
-
-💡 **Takeaway:** Don’t blindly trust automated scans. **Double-check results manually!**
-
----
-
-## **Final Thoughts**
-
-🚀 Enumeration is the **foundation** of a successful penetration test.  
-🔎 It’s not about **just using tools** – it’s about **understanding the data**.  
-🛠 **Learn the technology, interact with services, and think critically!**
-
-🔑 **Enumeration is the key! 🔓**
-
----
-
-This format makes it **easier to scan, process, and recall key ideas**—ideal for ADHD brains!😊
 
 
 *Generated with ❤️ by ChatGPT & [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1ght)*

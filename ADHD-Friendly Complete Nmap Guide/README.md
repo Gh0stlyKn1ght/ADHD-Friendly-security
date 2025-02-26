@@ -13,7 +13,7 @@ Check out more projects on GitHub: [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1
 
 - [🔍 Enumeration & Security Testing](#enumeration--security-testing)
 - [🔍 Introduction to Nmap](#introduction-to-nmap)
-- [🔍 Discovery with Nmap](#discovery-with-nmap)
+- [🔍 Discovery with Nmap](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Discovery%20with%20Nmap.md)
 - [🔍 Saving Nmap Scan Results 🚀](#saving-nmap-scan-results-🚀)
 - [🔍 Enumeration: The Most Critical Phase in Security Testing](#enumeration-the-most-critical-phase-in-security-testing)
 - [🔍 Finding the Target's DNS Server Version](#finding-the-targets-dns-server-version)

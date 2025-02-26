@@ -14,7 +14,7 @@ Check out more projects on GitHub: [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1
 - [🔍 Enumeration & Security Testing](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Enumeration%20%26%20Security%20Testing%20(ADHD-Friendly%20TOC).md)
 - [🔍 Introduction to Nmap](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Introduction%20to%20Nmap.md)
 - [🔍 Discovery with Nmap](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Discovery%20with%20Nmap.md)
-- [🔍 Saving Nmap Scan Results 🚀](/ADHD-Friendly Complete Nmap Guide/🔍Saving Nmap Scan Results 🚀.md)
+- [🔍 Saving Nmap Scan Results 🚀](/🔍Saving Nmap Scan Results 🚀.md)
 - [🔍 Enumeration: The Most Critical Phase in Security Testing](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Enumeration%20The%20Most%20Critical%20Phase%20in%20Security%20Testing%F0%9F%94%8D.md)
 - [🔍 Finding the Target's DNS Server Version](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Finding%20the%20Target's%20DNS%20Server%20Version.md)
 - [🔍 Identifying the Version of Running Services](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Identifying%20the%20Version%20of%20Running%20Services.md)

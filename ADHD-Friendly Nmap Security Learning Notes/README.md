@@ -16,7 +16,7 @@ Check out more projects on GitHub: [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1
 - [6. Identifying the Version of Running Services](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/6.%20Identifying%20the%20Version%20of%20Running%20Services.md)
 - [7. Service Enumeration with Nmap🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/7.%20Service%20Enumeration%20with%20Nmap%F0%9F%9A%80.md)
 - [8. Finding the Target's DNS Server Version](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/8.%20Finding%20the%20Target's%20DNS%20Server%20Version.md)
-- [9. Optimizing Nmap Performance 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Nmap%20Scripting%20Engine%20(NSE)%20%F0%9F%9A%80.md)
+- [9. Optimizing Nmap Performance 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/9.%20Optimizing%20Nmap%20Performance%20%F0%9F%9A%80.md)
 - [10. Nmap Scripting Engine (NSE) 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/9.%20Optimizing%20Nmap%20Performance%20%F0%9F%9A%80.md)
 - [11. Enumeration The Most Critical Phase in Security Testing 🔍](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Complete%20Nmap%20Guide/%F0%9F%94%8D%20Service%20Enumeration%20with%20Nmap%F0%9F%9A%80.md)
 

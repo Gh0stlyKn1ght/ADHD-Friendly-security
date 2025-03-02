@@ -26,6 +26,10 @@ Check out more projects on GitHub: [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1
 - [🔥 Post-Exploitation Attack Simulation: Taking Over a Compromised Web Server](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/Nmap%20Simulation%20Security%20Real-World%20Example/%F0%9F%94%A5%20Post-Exploitation%20Attack%20Simulation:%20Taking%20Over%20a%20Compromised%20Web%20Server.md)
 - [🔥 Post-Exploitation Attack Simulation: Taking Over a Compromised Web Server](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/Nmap%20Simulation%20Security%20Real-World%20Example/%F0%9F%94%A5%20Post-Exploitation%20Attack%20Simulation%3A%20Taking%20Over%20a%20Compromised%20Web%20Server.md)
 
+You can always check out the full guide to Nmap at https://nmap.org/. The content I curated here is for those seeking to do security testing.
+
+
+
 *Generated with ❤️ by ChatGPT & [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1ght)*
 
 

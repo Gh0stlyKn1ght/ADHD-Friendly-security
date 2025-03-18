@@ -7,16 +7,17 @@ Welcome to ADHD-Friendly Hashcat notes.
 ### Credits
 This guide was compiled with insights from **Gh0stlyKn1ght**.  
 Check out more projects on GitHub: [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1ght)
-- [1. Introduction to Nmap](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/1.%20Introduction%20to%20Nmap.md)
-- [2. Understanding an Nmap Scan](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/2.%20Understanding%20an%20Nmap%20Scan.md)
-- [3. Saving Nmap Scan Results 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/3.%20Saving%20Nmap%20Scan%20Results%20%F0%9F%9A%80.md)
-- [4. Discovery with Nmap](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/4.%20Discovery%20with%20Nmap.md)
-- [5. Identifying the Operating System of the Target Machine](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/5.%20Identifying%20the%20Operating%20System%20of%20the%20Target%20Machine.md)
-- [6. Identifying the Version of Running Services](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/6.%20Identifying%20the%20Version%20of%20Running%20Services.md)
-- [7. Service Enumeration with Nmap🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/7.%20Service%20Enumeration%20with%20Nmap%F0%9F%9A%80.md)
-- [8. Finding the Target's DNS Server Version](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/8.%20Finding%20the%20Target's%20DNS%20Server%20Version.md)
-- [9. Optimizing Nmap Performance 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/9.%20Optimizing%20Nmap%20Performance%20%F0%9F%9A%80.md)
-- [10. Nmap Scripting Engine (NSE) 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/10.%20Nmap%20Scripting%20Engine%20(NSE)%20%F0%9F%9A%80.md)
-- [11. Enumeration The Most Critical Phase in Security Testing 🔍](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/11.%20Enumeration%20The%20Most%20Critical%20Phase%20in%20Security%20Testing%20%F0%9F%94%8D.md)
-
+- [1. Introduction to Hashcat](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Notes/ADHD-Friendly%20Notes%20Hashcat/1.%20Intro%20to%20Hashcat.md)
+- [2. Hashing vs Encryption](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Notes/ADHD-Friendly%20Notes%20Hashcat/2.%20Hashing%20vs.%20Encryption.md)
+- [3. Hashcat Overview 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Notes/ADHD-Friendly%20Notes%20Hashcat/3.%20Hashcat%20Overview.md)
+- [4. Identifying Hashes](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Notes/ADHD-Friendly%20Notes%20Hashcat/4.%20Identifying%20Hashes.md)
+- [5. Combination Attacks](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Notes/ADHD-Friendly%20Notes%20Hashcat/5.%20Combination%20Attacks.md)
+- [6. Take a Break](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Nmap%20Security%20Learning%20Notes/6.%20Identifying%20the%20Version%20of%20Running%20Services.md)
+- [7. Mask Attack🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Notes/ADHD-Friendly%20Notes%20Hashcat/7.%20Mask%20Attack.md)
+- [8. Hybrid Attack](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/tree/8fec3f3bbfd54874498247705bf4170f0f98c035/ADHD-Friendly%20Notes/ADHD-Friendly%20Notes%20Hashcat)
+- [9. Creating a custom wordlist 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Notes/ADHD-Friendly%20Notes%20Hashcat/9.%20Creating%20a%20Custom%20Wordlist.md)
+- [10. Working with Rules 🚀](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Notes/ADHD-Friendly%20Notes%20Hashcat/10.%20Working%20with%20Rules.md)
+- [11. Cracking common hashes 🔍](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Notes/ADHD-Friendly%20Notes%20Hashcat/11.%20Cracking%20Common%20Hashes.md)
+- [Cracking Miscellaneous Files & Hashes with Hashcat](https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/main/ADHD-Friendly%20Notes/ADHD-Friendly%20Notes%20Hashcat/12.%20Cracking%20Miscellaneous%20Files%20%26%20Hashes%20with%20Hashcat.md)
+- 
 *Generated with ❤️ by ChatGPT & [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1ght)*

@@ -1,6 +1,7 @@
 Welcome to ADHD-Friendly Hashcat notes.
 
-![[hashcat-1535971659.jpg]]
+<img title="a title" alt="Alt text" src="https://github.com/Gh0stlyKn1ght/ADHD-Friendly-security/blob/c360e4e0515813a0b9c013cf9934999328f7e81c/ADHD-Friendly%20Notes/ADHD-Friendly%20Notes%20Hashcat/assets/hackers-hackers-movie-1246808803.gif">
+
 
 
 
